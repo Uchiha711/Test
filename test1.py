@@ -1,5 +1,5 @@
 n = int(input())
-m = list(map(int,input().strip().split()))[:n]
+m = list(map(int,input().strip().split()))[:n] #changes only in dev
 
 a = min(m)
 
