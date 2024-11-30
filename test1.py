@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input()) #changes only in uat
 m = list(map(int,input().strip().split()))[:n]
 
 a = min(m)
